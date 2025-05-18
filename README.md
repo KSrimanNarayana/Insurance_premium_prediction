@@ -58,24 +58,33 @@ Boxplot for numeric attributes | outleir detection
 ![download](https://github.com/user-attachments/assets/53e15c99-e059-4983-8875-99c613f0e399)
 
 Bivarient Analysis
+
  Numeric vs Binary | Boxplot 
+ 
 ![download](https://github.com/user-attachments/assets/2560100b-b621-4582-9574-1da8bad0d19c)
 
 Correlation Heat Map
+
 ![download](https://github.com/user-attachments/assets/9c3790b1-bba1-4458-82c5-ff93f3783e42)
 
 Residuals Plot
+
 ![download](https://github.com/user-attachments/assets/472e8922-1b15-4104-a227-f66bf8750586)
 
 
 Histogram of Residuals
+
 ![download](https://github.com/user-attachments/assets/fb7fb8b2-4fde-4af3-9268-26b987a84f42)
 
 Comparison Of Models
+
 ![download](https://github.com/user-attachments/assets/34a136e7-0c94-41af-9ac9-cf4d7b8b5bfd)
 
 Feature importance according to Models
+
 ![download](https://github.com/user-attachments/assets/524ecd8d-af87-4252-9edf-bd1a73993aab)
 
 
-#Reference
+# Reference
+
+- Please go through medium by clicking 
