@@ -87,4 +87,4 @@ Feature importance according to Models
 
 # Reference
 
-- Please go through medium by clicking 
+- Please go through medium blog by clicking [here](https://medium.com/@kancharlasrimannarayana324/from-data-to-dollars-ml-models-for-accurate-health-insurance-pricing-18b95da9e62b)
